@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://renko-gute-poette.github.io/notes-nkjq0q/sitemap.xml
